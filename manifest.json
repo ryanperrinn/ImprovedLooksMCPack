@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "Less intrusive by RJ226, Visit rj226.uk for more",
+        "name": "Less intrusive",
+        "uuid": "fab3446d-28e7-4f61-83d4-e3903c5a7252",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 13, 0 ]
+    },
+    "modules": [
+        {
+            "description": "Less intrusive",
+            "type": "resources",
+            "uuid": "52f6d528-6dff-402f-9167-a6856c42a7dc",
+            "version": [0, 0, 1]
+        }
+    ]
+}
